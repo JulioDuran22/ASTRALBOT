@@ -5,7 +5,7 @@ let totalf = Object.values(global.plugins).filter(
 conn.reply(m.chat, `${emoji} Total de Funciones : ${totalf}`, m)
 }
 
-handler.help = ['totalfunciones']
+handler.menu = ['totalfunciones']
 handler.tags = ['main']
 handler.command = ['totalfunciones', 'comandos', 'funciones']
 handler.register = true

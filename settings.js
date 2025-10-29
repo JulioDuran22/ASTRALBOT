@@ -16,21 +16,14 @@ global.botNumber = '' //Ejemplo: 573218138672
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-// <-- Número @s.whatsapp.net -->
-  ['573212042172', 'JulioDuran/SETHGX9', true],
-  
-  
-// <-- Número @lid -->
-  ['146282324721715', 'JulioDuran/SETHGX9', true],
-  ['', '', true], 
-  ['', '', true]
+  ['573212042172', 'JulioDuran/SETHGX9', true]
 ];
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.mods = []
+global.mods = ['573212042172']
 global.suittag = ['573212042172'] 
-global.prems = []
+global.prems = ['573212042172']
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
